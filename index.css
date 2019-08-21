@@ -1,0 +1,10 @@
+.mainHeader {
+  font-size: 30px;
+  text-align: center;
+}
+
+.mainForm {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
